@@ -12,7 +12,7 @@ You can use it as dependency of another plugin by reference in plugin.xml:
 
 Or, you can also add it manually with Cordova CLI:
 ```bash
-cordova plugin add https://github.com/divampo/cordova-unityads-sdk.git
+cordova plugin add https://github.com/creakosta/cordova-unityads-sdk.git
 ```
 
 # How to Update
