@@ -1,7 +1,7 @@
 
 # Unity Ads SDK for Cordova/Ionic 2
 
-This cordova plugin adds the Unity Ads SDK and adapter to cordova project.
+This cordova plugin adds the Unity Ads SDK (2.2.0) and adapter to cordova project, compatible with cordova-plugin-admob-free
 
 # How to Use
 
